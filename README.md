@@ -184,7 +184,7 @@ Alongside electronics, I'm developing my understanding of **cybersecurity and ne
 [https://github.com/harika2028](https://github.com/harika2028)
 
 **LinkedIn:**  
-[in/yarasu-neharika](in/yarasu-neharika)
+[https://www.linkedin.com/in/yarasu-neharika](https://www.linkedin.com/in/yarasu-neharika)
 
 </div>
 
