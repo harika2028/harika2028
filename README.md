@@ -184,7 +184,7 @@ Alongside electronics, I'm developing my understanding of **cybersecurity and ne
 [https://github.com/harika2028](https://github.com/harika2028)
 
 **LinkedIn:**  
-[Add your LinkedIn profile link here]
+[https://harika2028.github.io/niha-portfolio/](https://harika2028.github.io/niha-portfolio/)
 
 </div>
 
