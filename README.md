@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-banner.svg" width="100%" alt="Niha - ECE, VLSI, AI banner"/>
+<img src="hero-banner.svg" width="100%" alt="Niha - ECE, VLSI, AI banner"/>
 
 <br/>
 
