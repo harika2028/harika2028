@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://harika2028.github.io/niha-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=26&duration=2800&pause=900&color=D690FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Hi%2C+I'm+Niha+%F0%9F%91%8B;Electronics+%26+Communication+Engineer;VLSI+%7C+CMOS+%7C+Low+Power+Design+Enthusiast;Building+at+the+edge+of+Chips%2C+AI+%26+IoT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=26&duration=2800&pause=900&color=D690FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Hi%2C+I'm+Niha+%F0%9F%91%8B;Electronics+%26+Communication+Engineer;Building+at+the+edge+of+Chips%2C+AI+%26+IoT" alt="Typing SVG" />
 </a>
 
 <br/>
